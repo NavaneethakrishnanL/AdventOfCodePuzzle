@@ -32,6 +32,6 @@ for i in range (len(df)):
     elif u=='B' and m=='Z':
         a=a+6+3
     elif u=='C' and m=='Z':
-        a=a+6+1
+        a=a+1+6
 
 print(a)
